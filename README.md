@@ -1,3 +1,3 @@
 # Azure-Terraform
 
-Use Terraform to create Storage account resource in Azure.
+Use Terraform to create storage account resources in Azure.
